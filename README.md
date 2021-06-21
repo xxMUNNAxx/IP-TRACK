@@ -32,7 +32,7 @@ Iptrack is a simply python script, which can be used to Ip lookup and to get inf
 * `pkg install git -y`
 * `pip install lolcat`
 * `pip install requests`
-* `git clone https://github.com/legendx22/IP-TRACK`
+* `git clone https://github.com/xxMUNNAxx/IP-TRACK`
 * `cd $HOME`
 * `ls`
 * `cd IP-TRACK`
